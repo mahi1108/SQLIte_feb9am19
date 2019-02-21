@@ -9,7 +9,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/et1"
-            android:hint="Enter ID"/>
+            android:hint="Enter ID"
+            android:inputType="number"/>
 
     <EditText
             android:layout_width="match_parent"
